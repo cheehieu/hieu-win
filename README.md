@@ -29,8 +29,43 @@ For a free email account using the custom domain with Zoho, adjust the mail sett
 |    MX    |    @     | mx2.zoho.com | 20  |  Auto   |
 |    MX    |    @     | mx3.zoho.com | 50  |  Auto   |
 
+## Web Presence
+
+Part of the reason I wanted to migrate away from NiftyHedgehog was because I didn't control some of the other "NiftyHedgehog" accounts in the wild. And those contents didn't align with my personal brand. So I chose a domain with very little competition. And then created matching accounts on various platforms to prevent others from doing so. Here are some of the accounts:
+
+- Amazon Business
+- Atlassian (Jira, Bitbucket, Trello)
+- [Dev.to](https://dev.to/nimblehour)
+- Discord
+- [Facebook](https://www.facebook.com/NimbleHour)
+- [GitHub](https://github.com/NimbleHour)
+- [Gitlab](https://gitlab.com/NimbleHour)
+- Gmail
+- Google Business
+- [Hacker News](https://news.ycombinator.com/user?id=NimbleHour)
+- [Instagram](https://www.instagram.com/nimblehour)
+- [LinkedIn](https://www.linkedin.com/company/nimblehour)
+- [Mastodon](https://mastodon.social/@nimblehour)
+- Meta
+- PayPal
+- [Pinterest](https://www.pinterest.com/NimbleHour/)
+- [Reddit](https://www.reddit.com/user/NimbleHour), [sub](https://www.reddit.com/r/NimbleHour/)
+- Shopify
+- [Slack](https://nimblehour.slack.com/)
+- Snapchat
+- Square
+- Stack Overflow
+- Stripe
+- TikTok
+- [Twitch](https://www.twitch.tv/nimblehour)
+- [Twitter](https://twitter.com/NimbleHour)
+- Venmo
+- [YouTube](https://www.youtube.com/@NimbleHour)
+- Zoho Email
+
 ## TODO
 
+- logos
 - simplify home screen with links to LinkedIn, GitHub, Resume (pdf), Contact
 - About Me section
 - Projects section
