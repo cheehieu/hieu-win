@@ -35,6 +35,7 @@ Part of the reason I wanted to migrate away from NiftyHedgehog was because I did
 
 - Amazon Business
 - Atlassian (Jira, Bitbucket, Trello)
+- [BetterStack](https://nimblehour.betteruptime.com/)
 - [Dev.to](https://dev.to/nimblehour)
 - Discord
 - [Facebook](https://www.facebook.com/NimbleHour)
