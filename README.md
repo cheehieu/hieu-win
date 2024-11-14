@@ -36,6 +36,7 @@ Part of the reason I wanted to migrate away from NiftyHedgehog was because I did
 - Amazon Business
 - Atlassian (Jira, Bitbucket, Trello)
 - [BetterStack](https://nimblehour.betteruptime.com/)
+- [Bluesky](https://bsky.app/profile/nimblehour.bsky.social)
 - [Dev.to](https://dev.to/nimblehour)
 - Discord
 - [Facebook](https://www.facebook.com/NimbleHour)
@@ -61,7 +62,7 @@ Part of the reason I wanted to migrate away from NiftyHedgehog was because I did
 - [Twitch](https://www.twitch.tv/nimblehour)
 - [Twitter](https://twitter.com/NimbleHour)
 - Venmo
-- [YouTube](https://www.youtube.com/@NimbleHour)
+- [YouTube](https://www.youtube.com/@NimbleHour), [alt](https://www.youtube.com/@NimbleHourTech)
 - Zoho Email
 
 ## TODO
