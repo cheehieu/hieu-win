@@ -58,6 +58,7 @@ Part of the reason I wanted to migrate away from NiftyHedgehog was because I did
 - Square
 - Stack Overflow
 - Stripe
+- [Substack](https://substack.com/@nimblehour)
 - TikTok
 - [Twitch](https://www.twitch.tv/nimblehour)
 - [Twitter](https://twitter.com/NimbleHour)
